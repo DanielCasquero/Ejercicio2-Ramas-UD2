@@ -1,0 +1,19 @@
+/* Estilos luminosos para la página */
+body {
+    background-color: #f7f7f7; /* Fondo claro */
+    color: #333; /* Texto oscuro */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
+
+p {
+    font-size: 1.1rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff; /* Fondo blanco para el párrafo */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra sutil para dar luminosidad */
+}
